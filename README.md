@@ -1,4 +1,8 @@
+-=(Alpha68k_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # Alpha Denshi M68000 FPGA Implementation
 
 FPGA compatible core of Alpha Denshi M68000 (ALPHA68K96V based) arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O) with assistance from [**atrac17**](https://github.com/atrac17).
